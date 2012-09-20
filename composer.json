@@ -3,7 +3,7 @@
     "description":"Generic Syntax Highlighting (GeSHi)",
     "autoload":{
         "psr-0":{
-            "GeSHi":"./geshi.php"
+            "GeSHi":"geshi.php"
         }
     },
     "repositories":[],
