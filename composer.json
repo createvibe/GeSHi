@@ -1,5 +1,5 @@
 {
-    "name":"geshi",
+    "name":"am/geshi",
     "description":"Generic Syntax Highlighting (GeSHi)",
     "autoload":{
         "psr-0":{
