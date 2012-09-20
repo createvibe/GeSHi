@@ -1,0 +1,22 @@
+{
+    "name":"geshi",
+    "description":"Generic Syntax Highlighting (GeSHi)",
+    "autoload":{
+        "psr-0":{
+            "":"./"
+        }
+    },
+    "repositories":[],
+    "require":{
+        "php":">4.3"
+    },
+    "scripts":{},
+    "config":{
+        "bin-dir":"bin"
+    },
+    "minimum-stability":"dev",
+    "extra":{
+        "symfony-app-dir":"app",
+        "symfony-web-dir":"web"
+    }
+}
